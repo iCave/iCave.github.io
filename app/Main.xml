@@ -1,0 +1,86 @@
+﻿<project version="2.9" name="Project" ID="CF038E32-87F1-44F8-8EE3-20CD93512610">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtDesktop" pageSize="(800,600)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Device Managment" ID="A06B3C8F-3062-471F-8440-F4932EC3DBFA" expanded="True" code="gAy6WSWEla" thumbCode="mAzMiHJg4Z" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31A85EC3B323D996EEE697E6F3F58044.jpg"/>
+        <image key="51DACCCAFE163209D6960BC2C59F5921.png"/>
+        <image key="3D5E90344E23C923EF92911B802563ED.svg"/>
+      </images>
+    </page>
+    <page name="Security" ID="12F99ABC-8931-43E3-89A0-FF89CB6CF2CD" expanded="True" code="RnJ8JGbEsL" thumbCode="RnJ8JGbEsL" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31A85EC3B323D996EEE697E6F3F58044.jpg"/>
+        <image key="2CBBE0F7E211B19DBBC92D45AEEA664E.png"/>
+        <image key="46BC117F6C483A7BDD9929F2F2317727.png"/>
+        <image key="8C27B24F285255B1307AD8B660C57FA8.png"/>
+        <image key="060C60C9BA50DFABA0BE33670B25BE11.png"/>
+        <image key="465F7420215F741122FE38BF5E1BDDD8.svg"/>
+        <image key="193617E6A33543D0B118E0281E30108C.png"/>
+        <image key="B5A16A1338F834B4E0305A3BA3DDD176.png"/>
+        <image key="00A4C6AA108D35D88A78FE7CD5F8D12F.svg"/>
+      </images>
+    </page>
+    <page name="Energy" ID="415F9670-50DE-49DE-A122-0F2E63EA41E7" expanded="True" code="o64pBpZBFm" thumbCode="hC3omLBBBY" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31A85EC3B323D996EEE697E6F3F58044.jpg"/>
+        <image key="390C94203B12531123048A5BA59F353B.png"/>
+        <image key="00A4C6AA108D35D88A78FE7CD5F8D12F.svg"/>
+      </images>
+    </page>
+    <page name="Home" ID="58055F76-F64B-42FE-8BE1-3AB1342B87DE" expanded="True" code="sCWBCcyYe2" thumbCode="sCWBCcyYe2" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31A85EC3B323D996EEE697E6F3F58044.jpg"/>
+        <image key="573BBF117E94AE81710739F78512149F.png"/>
+        <image key="7578AFC850BA9545DB2C6367A668427B.jpg"/>
+      </images>
+    </page>
+    <page name="Emergency" ID="13CE5B45-6102-4704-81E8-0DDE0FFF878D" expanded="True" code="DMYcDPvQeW" thumbCode="DMYcDPvQeW" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31A85EC3B323D996EEE697E6F3F58044.jpg"/>
+        <image key="F5F0E3971DD34BA5F2C7AE22356E0F8D.png"/>
+      </images>
+    </page>
+    <page name="Announcments" ID="07A6E638-190E-4E38-A4BC-DB35E9E0ADDD" expanded="True" code="vCAbQkGwY7" thumbCode="vCAbQkGwY7" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31A85EC3B323D996EEE697E6F3F58044.jpg"/>
+        <image key="7578AFC850BA9545DB2C6367A668427B.jpg"/>
+      </images>
+    </page>
+    <page name="Andmin Page" ID="22F991A2-390C-4701-8C93-63CEB368C52F" expanded="True" code="eYcejactdQ" thumbCode="eYcejactdQ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31A85EC3B323D996EEE697E6F3F58044.jpg"/>
+        <image key="2CBBE0F7E211B19DBBC92D45AEEA664E.png"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="Energy" ID="C233AEDA-1A9E-4E18-BDD9-8AD7137A53AE" expanded="True" code="TaGZFhWc5O" thumbCode="YRhvyzMdh3" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page" ID="BA8BA432-F415-49F6-BAA1-C067CF421A80" expanded="False" code="3J6hOsn3Mx" thumbCode="rewmX9p1C2" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page" ID="BC7FE417-1F7A-4539-B6BE-2B313A946281" expanded="False" code="RPXZ4ozN8D" thumbCode="zMJdMi8UGA" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="060C60C9BA50DFABA0BE33670B25BE11.png"/>
+    <image key="46BC117F6C483A7BDD9929F2F2317727.png"/>
+    <image key="F5F0E3971DD34BA5F2C7AE22356E0F8D.png"/>
+    <image key="31A85EC3B323D996EEE697E6F3F58044.jpg"/>
+    <image key="2CBBE0F7E211B19DBBC92D45AEEA664E.png"/>
+    <image key="7578AFC850BA9545DB2C6367A668427B.jpg"/>
+    <image key="51DACCCAFE163209D6960BC2C59F5921.png"/>
+    <image key="8C27B24F285255B1307AD8B660C57FA8.png"/>
+    <image key="3D5E90344E23C923EF92911B802563ED.svg"/>
+    <image key="193617E6A33543D0B118E0281E30108C.png"/>
+    <image key="465F7420215F741122FE38BF5E1BDDD8.svg"/>
+    <image key="390C94203B12531123048A5BA59F353B.png"/>
+    <image key="573BBF117E94AE81710739F78512149F.png"/>
+    <image key="B5A16A1338F834B4E0305A3BA3DDD176.png"/>
+    <image key="00A4C6AA108D35D88A78FE7CD5F8D12F.svg"/>
+  </images>
+</project>
